@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Austin
+- 
 - 👀 I’m interested in ... creating, building, developing.
-- 🌱 I’m currently learning ... do it all.
+- 
+- 🌱 I’m currently learning ... how to do it all.
+- 
 - 💞️ I’m looking to collaborate ... 
+- 
 - 📫 How to reach me ... austin.olijar@gmail.com
 
 <!---
