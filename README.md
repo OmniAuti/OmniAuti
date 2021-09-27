@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @OmniAuti
-- 👀 I’m interested in ... creating
-- 🌱 I’m currently learning ... do it all
-- 💞️ I’m looking to collaborate ...
+- 👋 Hi, I’m Austin
+- 👀 I’m interested in ... creating, building, developing.
+- 🌱 I’m currently learning ... do it all.
+- 💞️ I’m looking to collaborate ... 
 - 📫 How to reach me ... austin.olijar@gmail.com
 
 <!---
