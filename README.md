@@ -6,7 +6,7 @@
 - 
   I’m looking to collaborate ... 
 - 
-  How to reach me ... Austin@austinolijar.com
+
 
 <!---
 OmniAuti/OmniAuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
