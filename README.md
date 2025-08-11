@@ -1,6 +1,6 @@
   Hi, I’m Austin
 - 
-  I’m interested in bringing ideas to life
+  I enjoy bringing ideas to life
 - 
 
 <!---
